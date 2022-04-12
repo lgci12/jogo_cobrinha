@@ -7,7 +7,7 @@ O jogo consiste em fazer a cobrinha pegar a maçã e fazer ela ficar o maior pos
 
 
 ### Disponibilizado em 
-[GitHubPage](  https://lgci12.github.io/jogo_cobrinha/)
+[Jogo da Cobrinha](https://lgci12.github.io/jogo_cobrinha/)
 
 
 ### Prints da tela
